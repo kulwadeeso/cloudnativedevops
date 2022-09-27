@@ -1,1 +1,1 @@
-module annk/demo/hello
+module mydemo/hello
